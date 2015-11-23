@@ -5,8 +5,8 @@
 2. Write code to send a picture to my Parse collection
    - Make a new collect named "Events"
    - "Events" collection should include the below columns
-     . Picture (File)
-     . Etc.
+     - Picture (File)
+      - Etc.
 
 3. Restrictions
    - The total counts of rows should be limited because we wants to use Parse as free.
@@ -14,4 +14,4 @@
 
 4. Push notification
    - Check the ability of send notification from Client
-     . Yun should send the notification with a specific channel name
+     - Yun should send the notification with a specific channel name
