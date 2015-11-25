@@ -1,0 +1,116 @@
+<resources>
+<!-- Default screen margins, per the Android Design guidelines. -->
+<dimen name="activity_horizontal_margin">16dp</dimen>
+<dimen name="activity_vertical_margin">16dp</dimen>
+<dimen name="fab_margin">16dp</dimen>
+
+//nice295
+
+//nice295 elevation
+<dimen name="nice295_app_bar_elevation">1dp</dimen>
+<dimen name="nice295_sub_header_elevation">1dp</dimen>
+<dimen name="nice295_dialog_elevation">12dp</dimen>
+<dimen name="nice295_menu_spinner_popup_elevation">4dp</dimen>
+<dimen name="nice295_tab_elevation">1dp</dimen>
+<dimen name="nice295_drawer_elevation">5dp</dimen>
+<dimen name="nice295_search_field_elevation">2dp</dimen>
+<dimen name="nice295_bottom_sheet_elevation">8dp</dimen>
+<dimen name="nice295_fab_elevation">2dp</dimen>
+<dimen name="nice295_card_elevation">2dp</dimen>
+
+//nice295 1. App_bar
+<dimen name="nice295_app_bar_height">56dp</dimen>
+<dimen name="nice295_app_bar_height_land">48dp</dimen>
+<dimen name="nice295_app_bar_extended_height">72dp</dimen>
+<dimen name="nice295_app_bar_padding_left">16dp</dimen>
+<dimen name="nice295_app_bar_title_text">20sp</dimen>
+<dimen name="nice295_app_bar_sub_text">14sp</dimen>
+<dimen name="nice295_app_bar_action_btn">15sp</dimen>
+<dimen name="nice295_app_bar_bottom_btn_text">17sp</dimen>
+<dimen name="nice295_app_bar_bottom_icon_text">12sp</dimen>
+<dimen name="nice295_app_bar_text_padding_left">12dp</dimen>
+<dimen name="nice295_app_bar_text_padding_right">12dp</dimen>
+
+//nice295 3. Cotroller
+<dimen name="nice295_checkbox_width_size">32dp</dimen>
+<dimen name="nice295_checkbox_height_size">32dp</dimen>
+<dimen name="nice295_checkbox_margin_left">16dp</dimen>
+<dimen name="nice295_checkbox_margin_right">16dp</dimen>
+<dimen name="nice295_radio_width_size">32dp</dimen>
+<dimen name="nice295_radio_height_size">32dp</dimen>
+<dimen name="nice295_radio_margin_left">16dp</dimen>
+<dimen name="nice295_radio_margin_right">16dp</dimen>
+<dimen name="nice295_on_off_switch_thumb_width_size">27dp</dimen>
+<dimen name="nice295_on_off_switch_thumb_height_size">27dp</dimen>
+<dimen name="nice295_on_off_switch_track_width_size">43dp</dimen>
+<dimen name="nice295_on_off_switch_track_height_size">40dp</dimen>
+<dimen name="nice295_on_off_switch_margin_right">16dp</dimen>
+<dimen name="nice295_add_button_width_size">32dp</dimen>
+<dimen name="nice295_add_button_height_size">32dp</dimen>
+<dimen name="nice295_delete_button_width_size">32dp</dimen>
+<dimen name="nice295_delete_button_height_size">32dp</dimen>
+<dimen name="nice295_add_button_margin_left">16dp</dimen>
+<dimen name="nice295_add_button_margin_right">16dp</dimen>
+<dimen name="nice295_delete_button_margin_left">16dp</dimen>
+<dimen name="nice295_delete_button_margin_right">16dp</dimen>
+<dimen name="nice295_slider_height">32dp</dimen>
+
+//nice295 4. Dialog
+<dimen name="nice295_dialog_action_margin_left">36dp</dimen>
+<dimen name="nice295_dialog_action_3_margin">15dp</dimen>
+<dimen name="nice295_dialog_action_height">38dp</dimen>
+<dimen name="nice295_dialog_padding_default">24dp</dimen>
+<dimen name="nice295_dialog_padding_select">20dp</dimen>
+
+<dimen name="nice295_dialog_choice_list_height">54dp</dimen>
+
+//nice295 5. Divider
+<dimen name="nice295_divider_height">2px</dimen>
+
+//nice295 6. List
+<dimen name="nice295_list_section_divider_text_size">14sp</dimen>
+<dimen name="nice295_list_section_divider_padding_left">16dp</dimen>
+<dimen name="nice295_list_section_divider_height">28dp</dimen>
+<dimen name="nice295_list_section_divider_padding_right">16dp</dimen>
+<dimen name="nice295_list_section_divider_info_text_size">15sp</dimen>
+<dimen name="nice295_list_icon_padding_left">16dp</dimen>
+<dimen name="nice295_list_padding_left">10dp</dimen>
+<dimen name="nice295_list_padding_right">10dp</dimen>
+<dimen name="nice295_list_text_padding_left">6dp</dimen>
+<dimen name="nice295_list_singleline_height">56dp</dimen>
+<dimen name="nice295_list_multiline_height">68dp</dimen>
+<dimen name="nice295_list_text_size">18sp</dimen>
+<dimen name="nice295_list_sub_text_size">13sp</dimen>
+<dimen name="nice295_list_counter_height">46dp</dimen>
+<dimen name="nice295_list_counter_text_size">16sp</dimen>
+
+//nice295 10. Scroll bar
+<dimen name="nice295_fast_scroller_track_divider_thickness">2px</dimen>
+<dimen name="nice295_fast_scroller_track_min_height">17dp</dimen>
+
+//nice295 11. search
+<dimen name="nice295_search_icon_size">24dp</dimen>
+
+//nice295 13. Text_fields
+<dimen name="nice295_edit_text_size">17sp</dimen>
+<dimen name="nice295_edit_text_padding_left">10dp</dimen>
+<dimen name="nice295_edit_text_left_side_touch_area">12dp</dimen>
+<dimen name="nice295_edit_text_underline_height">2px</dimen>
+<dimen name="nice295_edit_text_underline_focus_height">4px</dimen>
+
+//nice295 14. View controls
+<dimen name="nice295_tab_height">48dp</dimen>
+<dimen name="nice295_tab_text_size">14sp</dimen>
+<dimen name="nice295_spinner_padding_left">16dp</dimen>
+<dimen name="nice295_spinner_padding_right">16dp</dimen>
+<dimen name="nice295_dropdown_list_height">54dp</dimen>
+<dimen name="nice295_dropdown_list_section_divider_height">32dp</dimen>
+
+<dimen name="nice295_1_2_1_library_tacker_on_off_switch_track_width_size">40dp</dimen>
+<dimen name="nice295_1_2_1_library_tacker_on_off_switch_track_height_size">22dp</dimen>
+
+<dimen name="step_pager_tab_width">32dp</dimen>
+<dimen name="step_pager_tab_height">3dp</dimen>
+<dimen name="step_pager_tab_spacing">4dp</dimen>
+
+</resources>

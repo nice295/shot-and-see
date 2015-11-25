@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#3F51B5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#FF4081</color>
+
+// GalleryChannel
+<color name="gallerychannel_blue">#0b96fa</color>
+
+// nice295 Global
+<color name="nice295_primary">#51b0d3</color>
+<color name="nice295_primary_dark">#0094b0</color>
+<color name="nice295_color_accent">#ffba00</color>
+<color name="nice295_white">#fafafa</color>
+<color name="nice295_blue">#c1dce8</color>
+<color name="nice295_blue_70">#b3c1dce8</color>
+<color name="nice295_black">#000000</color>
+
+//nice295 1. App bar
+<color name="nice295_action_button">#fafafa</color>
+<color name="nice295_action_button_disabled">#66aff3ff</color>
+<color name="nice295_sub_app_bar_bg">#f0f0f0</color>
+<color name="nice295_bottom_bar_bg">#f0f0f0</color>
+
+//nice295 3. Cotroller
+<color name="nice295_check_on">#56c0e5</color>
+<color name="nice295_check_on_disable">#66737373</color>
+<color name="nice295_check_off">#737373</color>
+<color name="nice295_check_off_disable">#66737373</color>
+<color name="nice295_radio_on">#56c0e5</color>
+<color name="nice295_radio_on_off">#66737373</color>
+<color name="nice295_radio_off">#737373</color>
+<color name="nice295_radio_off_disable">#66737373</color>
+<color name="nice295_on_off_switch_on_thumb">#56c0e5</color>
+<color name="nice295_on_off_switch_off_thumb">#eaeaea</color>
+<color name="nice295_on_off_switch_dim_on_thumb">#cccccc</color>
+<color name="nice295_on_off_switch_dim_off_thumb">#cccccc</color>
+<color name="nice295_on_off_switch_on_track">#d9b9e3f2</color>
+<color name="nice295_on_off_switch_off_track">#33000000</color>
+<color name="nice295_on_off_switch_dim_on_track">#33000000</color>
+<color name="nice295_on_off_switch_dim_off_track">#33000000</color>
+<color name="nice295_add_button">#56c0e5</color>
+<color name="nice295_delete_button">#56c0e5</color>
+<color name="nice295_slider_progress_primary_color">#56c0e5</color>
+<color name="nice295_slider_scrubber_color">#78cdea</color>
+<color name="nice295_slider_scrubber_color_unfocus">#bdbdbd</color>
+<color name="nice295_slider_progress_bg_color">#e3e0e0</color>
+<color name="nice295_slider_progress_bg_disabled_color">#80c9c9c9</color>
+<color name="nice295_slider_progress_primary_color_unfocus">#a3a3a3</color>
+
+
+//nice295 4. Dialog
+<color name="nice295_dialog_slider_title">#545454</color>
+
+//nice295 5. Divider
+<color name="nice295_divider_bg">#d9d9d9</color>
+
+//nice295 6. Lists
+<color name="nice295_section_divider_text">#949494</color>
+<color name="nice295_section_divider_bg">#f0f0f0</color>
+<color name="nice295_list_sub_text">#86898b</color>
+<color name="nice295_section_divider_touchable_text">#499ebd</color>
+<color name="nice295_list_counter_text">#6b6f72</color>
+
+//nice295 10. Scroll bar
+<color name="nice295_fast_scroller_track_text">#a0a0a0</color>
+<color name="nice295_fast_scroller_track_divider">#cecece</color>
+
+//nice295 11. Search
+<color name="nice295_search_icon_search_tint">#cc404040</color>
+
+<color name="nice295_search_edit_text_hint">#80616161</color>
+
+//nice295 13. Text Field
+<color name="nice295_edit_text_default_line_tint">#6e000000</color>
+<color name="nice295_edit_text_hint">#54000000</color>
+<color name="nice295_edit_text_disabled">#47000000</color>
+<color name="nice295_edit_text_label_title">#545454</color>
+
+//nice295 14. View controls
+<color name="nice295_tab_bg">#f6f6f6</color>
+<color name="nice295_tab_text_default">#cc767676</color>
+<color name="nice295_tab_text_selected">#51b0d3</color>
+<color name="nice295_tab_icon_default">#ccfafafa</color>
+<color name="nice295_tab_icon_selected">#ffe57f</color>
+<color name="nice295_spinner_color">#919191</color>
+<color name="nice295_dropdown_list_text_selected">#09b5d5</color>
+<color name="nice295_dropdown_list_text_dim">#5e000000</color>
+
+// SHealth
+<color name="nice295_1_2_1_on_off_switch_on_thumb">#88d66c</color>
+<color name="nice295_1_2_1_on_off_switch_off_thumb">#eaeaea</color>
+<color name="nice295_1_2_1_on_off_switch_on_track">#59a843</color>
+<color name="nice295_1_2_1_on_off_switch_off_track">#66000000</color>
+
+
+<color name="gallery_spinner_text">#0a84db</color>
+<color name="black">#000000</color>
+<color name="white">#fafafa</color>
+
+<color name="step_pager_previous_tab_color">#4433b5e5</color>
+<color name="step_pager_selected_tab_color">#ff0099cc</color>
+<color name="step_pager_selected_last_tab_color">#ff669900</color>
+<color name="step_pager_next_tab_color">#10000000</color>
+<color name="review_green">#ff669900</color>
+<color name="text_light">#66000000</color>
+</resources>
