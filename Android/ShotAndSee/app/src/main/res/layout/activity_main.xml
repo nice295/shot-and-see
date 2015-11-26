@@ -15,6 +15,12 @@
         android:src="@android:drawable/ic_menu_camera"
         android:tint="#ffffff" />
 
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_gravity="center" />
+
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"

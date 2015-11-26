@@ -11,9 +11,13 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true">
+        <processorPath useClasspath="false" />
+      </profile>
+      <profile default="false" name="ButterKnife" enabled="true">
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
