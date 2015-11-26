@@ -16,7 +16,7 @@ public class ShotAndSeeApplication extends Application {
 
 		// enable the Local Datastore
 		Parse.enableLocalDatastore(getApplicationContext());
-		Parse.initialize(this, "RNe9ftIiEOhApIKGxRm0vrg8cEJdMkZhbm0anOts", "N0PSrazu3KUOhDnbJhL9h2KPkcDLMNsuNDl08fXU");
+		Parse.initialize(this, "---", "---");
 		ParseInstallation.getCurrentInstallation().put("channels", Arrays.asList("Android", "ShotAndSee"));
 		ParseInstallation.getCurrentInstallation().saveInBackground(); //for push
 		ParseUser.enableAutomaticUser();
