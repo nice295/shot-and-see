@@ -4,9 +4,6 @@
 <color name="colorPrimaryDark">#303F9F</color>
 <color name="colorAccent">#FF4081</color>
 
-// GalleryChannel
-<color name="gallerychannel_blue">#0b96fa</color>
-
 // nice295 Global
 <color name="nice295_primary">#51b0d3</color>
 <color name="nice295_primary_dark">#0094b0</color>
