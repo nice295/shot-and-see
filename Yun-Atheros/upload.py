@@ -13,8 +13,8 @@ print retvalue
 connection = httplib.HTTPSConnection('api.parse.com', 443)
 connection.connect()
 connection.request('POST', '/1/files/'+imageName, open(imagePath, 'rb').read(), {
-       "X-Parse-Application-Id": "RNe9ftIiEOhApIKGxRm0vrg8cEJdMkZhbm0anOts",
-       "X-Parse-REST-API-Key": "jFbgWNS9Ox8FEAubMnw7lJoDxrt5tp07NujLyt3v",
+       "X-Parse-Application-Id": "---",
+       "X-Parse-REST-API-Key": "---",
        "Content-Type": "image/jpeg"
      })
 result = json.loads(connection.getresponse().read())
@@ -33,8 +33,8 @@ connection.request('POST', '/1/classes/Events', json.dumps({
 		"__type": "File"
 	}
 	}), {
-	"X-Parse-Application-Id": "RNe9ftIiEOhApIKGxRm0vrg8cEJdMkZhbm0anOts",
-	"X-Parse-REST-API-Key": "jFbgWNS9Ox8FEAubMnw7lJoDxrt5tp07NujLyt3v",
+	"X-Parse-Application-Id": "---",
+	"X-Parse-REST-API-Key": "---",
 	"Content-Type": "application/json"
 	})
 result = json.loads(connection.getresponse().read())
@@ -51,8 +51,8 @@ connection.request('POST', '/1/push', json.dumps({
          "alert": "New image updated."
        }
      }), {
-       "X-Parse-Application-Id": "RNe9ftIiEOhApIKGxRm0vrg8cEJdMkZhbm0anOts",
-       "X-Parse-REST-API-Key": "jFbgWNS9Ox8FEAubMnw7lJoDxrt5tp07NujLyt3v",
+       "X-Parse-Application-Id": "---",
+       "X-Parse-REST-API-Key": "---",
        "Content-Type": "application/json"
      })
 result = json.loads(connection.getresponse().read())
