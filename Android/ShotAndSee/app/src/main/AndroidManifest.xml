@@ -71,6 +71,6 @@
 
     <meta-data
         android:name="com.parse.push.gcm_sender_id"
-        android:value="id:shotandsee"/>;
+        android:value="id:---"/>;
 
 </manifest>
