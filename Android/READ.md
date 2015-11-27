@@ -2,6 +2,7 @@
 - https://console.developers.google.com/project
 - 프로젝트 만들기
 - Save values
-  - Project ID (Android)
-  - Project #, API Key (for Parse)
-  - Enable "Cloud Messaging for Android"
+  - Project ID (Manifest in Android)
+  - Project # (Sender ID in Parse)
+  - API Key (Key in Parse)
+
